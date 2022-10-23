@@ -38,6 +38,7 @@
 		4BB9EE922905FC980039F15A = {
 			isa = PBXGroup;
 			children = (
+				4BB9EEAD2905FCE90039F15A /* README.md */,
 				4BB9EE9D2905FC980039F15A /* Sandwiches */,
 				4BB9EE9C2905FC980039F15A /* Products */,
 			);
@@ -59,7 +60,6 @@
 				4BB9EEA22905FC990039F15A /* Assets.xcassets */,
 				4BB9EEA42905FC990039F15A /* Sandwiches.entitlements */,
 				4BB9EEA52905FC990039F15A /* Preview Content */,
-				4BB9EEAD2905FCE90039F15A /* README.md */,
 			);
 			path = Sandwiches;
 			sourceTree = "<group>";
